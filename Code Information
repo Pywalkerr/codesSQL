@@ -1,0 +1,16 @@
+# School System (SQL)
+
+This project contains the database structure for a simple school system.
+
+## Structure
+- Teachers
+- Matters
+- Rooms
+
+## RESOURCES
+- Relationships via foreign key
+- Example of insertion and consultations
+- Export made via phpmyadmin
+
+## Author
+Matheus Vini
