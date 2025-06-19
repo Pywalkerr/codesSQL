@@ -1,0 +1,16 @@
+# Sistema Escolar (SQL)
+
+Este projeto contém a estrutura de banco de dados para um sistema escolar simples.
+
+## Estrutura
+- Professores
+- Matérias
+- Salas
+
+## Recursos
+- Relacionamentos via chave estrangeira
+- Exemplo de inserção e consultas
+- Exportação feita via phpMyAdmin
+
+## Autor
+Matheus Vini
